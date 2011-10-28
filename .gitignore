@@ -1,0 +1,6 @@
+# Temp files
+*.swp
+*~
+
+# site dir
+_site/*
