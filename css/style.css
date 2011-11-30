@@ -1,0 +1,50 @@
+html {
+  /* background: #1f1f1f; */
+  background: #191919;
+  /* color: #ffffff; */
+  color: #f8f8f2;
+}  
+
+body {
+  font-size: 15px;
+  line-height: 1.5;
+	font-family: 'Droid Serif', Georgia, serif;
+}
+
+h1 {
+  font-family: 'Vollkorn', Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 200%;
+}
+
+a {
+    color: #2790B0;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #2B4E72;
+    text-decoration: none;
+}
+
+a:hover {
+    /*color: #4E4D4A;*/
+    color: #5FD7FF;
+    text-decoration: none;
+}
+
+#main {
+  width: 100%;
+}
+
+#header {
+  text-align: center;
+}
+
+#content {
+  width: 75%;
+  min-width: 41em;
+  min-height: 20em;
+  float: left;
+  padding: 30px;
+  text-align: justify;
+}
