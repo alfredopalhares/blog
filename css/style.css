@@ -1,7 +1,5 @@
 html {
-  /* background: #1f1f1f; */
   background: #191919;
-  /* color: #ffffff; */
   color: #f8f8f2;
 }  
 
@@ -27,9 +25,18 @@ a:visited {
 }
 
 a:hover {
-    /*color: #4E4D4A;*/
     color: #5FD7FF;
     text-decoration: none;
+}
+
+/* Div here the code goes */
+div.highlight {
+    background-color: #131313;
+    color: #f8f8f2;
+    padding: 0.5em;
+    margin: 0.5em 0em 1em 0em;
+    border: 1px dashed #808080;
+    clear: both;
 }
 
 #main {
