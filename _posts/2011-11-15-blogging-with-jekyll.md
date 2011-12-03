@@ -7,7 +7,7 @@ I have never been a blogger and the idea of having a bloated cms with a complica
 just to display static text that noone is not gona ever comment pleased me much.
 
 Other option was to use static html, but that is so hard to maintain that is ridiculous.Then i found 
-[jekyll](http://jekyllrb.com/) (*angels singing in background*)that is a blogging engine that allows me to blog in a simple 
+[jekyll](http://jekyllrb.com/) (angels singing in background) that is a blogging engine that allows me to blog in a simple 
 [mardown syntax](http://en.wikipedia.org/wiki/Markdown) from my favorite editor, [vim](http://www.vim.org/). Well just this was a good motive to try it out. 
 
 Here is one of the main resons:
@@ -19,7 +19,7 @@ while true;
 {% endhighlight %}
 
 Just like that, i can have code highlighted very easly, so damm simple. With the help of [pygments](http://pygments.org/) bash, C, C++, ruby, python and
-and [huge amount](http://pygments.org/languages/) can show on the articles.
+a [huge amount](http://pygments.org/languages/) can show on the articles.
 
 I found some problems with the making jekyll work properly, [albino](https://github.com/github/albino) was calling 
 [pygments with the utf-8 endoding](http://doswa.com/2011/07/19/jekyll-syntax-highlighting-with-pygments-on-arch-linux.html) and i also 
